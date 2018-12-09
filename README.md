@@ -1,3 +1,6 @@
 # minimal angular application
 
-# important aspects will be updated soon
+1) npm install
+2) npm run dev
+
+# more important things will be updated soon
