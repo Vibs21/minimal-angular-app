@@ -8,6 +8,7 @@
         "sourceMap": false,
         "noEmitOnError": true,
         "strictNullChecks": true,
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
     }
 }
